@@ -1,4 +1,5 @@
 John Vincent K. Valera BSIT-3D
+
 Assignment 2
 # Reflection on Django Project Setup
 
