@@ -1,0 +1,9 @@
+John Vincent K. Valera BSIT-3D
+
+Environment Checklist:
+
+- Python version: 3.13.7
+- Venv active: Yes - Path: C:\Users\PC-Owner\Documents\django\venv
+- Django version: 5.2.6
+- Runserver working: Yes - Server starts and page loads at http://127.0.0.1:8000/
+- Git remote set: Yes - origin  https://github.com/v-vin-vin/valera-it373-Assignment_1.git
